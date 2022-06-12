@@ -25,3 +25,4 @@ int main()
 	e1->yazdir();
 	return 0;
 }
+//branch değişikliği ahsendurmaz
